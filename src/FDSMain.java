@@ -12,7 +12,7 @@ public class FDSMain {
 		System.out.println("Hello, World! Comunitario! Michael\n");
 
 		// Robson Andrei
-		System.out.println("Hello, World! Comunitario! Robson Andrei  \n");
+		System.out.println("Hello, World! Comunitario! Robson Andrei\n");
 
 	}
 
