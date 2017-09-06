@@ -13,6 +13,8 @@ public class FDSMain {
 
 		// Robson Andrei # Testando o merge
 		System.out.println("Hello, World! Comunitario! Robson Andrei\n");
+		
+		System.out.println("Hello, World! Comunitario! Robson Andrei\n");
 
 	}
 
